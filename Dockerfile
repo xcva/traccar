@@ -1,4 +1,4 @@
-ROM adoptopenjdk:11-jre-hotspot-focal
+FROM adoptopenjdk:11-jre-hotspot-focal
 
 ENV TRACCAR_VERSION 4.15
 
